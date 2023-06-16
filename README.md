@@ -1,11 +1,11 @@
-About r-crsmeta
-===============
+About r-crsmeta-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-crsmeta-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/hypertidy/crsmeta
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-crsmeta-feedstock/blob/main/LICENSE.txt)
 
 Summary: Obtain coordinate system metadata from various data formats. There are functions to extract a 'CRS' (coordinate reference system, <https://en.wikipedia.org/wiki/Spatial_reference_system>) in 'EPSG' (European Petroleum Survey Group, <http://www.epsg.org/>), 'PROJ4' <https://proj.org/>, or 'WKT2' (Well-Known Text 2, <http://docs.opengeospatial.org/is/12-063r5/12-063r5.html>) forms. This is purely for getting simple metadata from in-memory formats, please use other tools for out of memory data sources.
 
